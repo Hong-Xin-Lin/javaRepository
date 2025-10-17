@@ -1,0 +1,9 @@
+com\dgut\springbootdemo\result\R$RBuilder.class
+com\dgut\springbootdemo\dao\UserRepository.class
+com\dgut\springbootdemo\bean\User.class
+com\dgut\springbootdemo\controller\UserController.class
+com\dgut\springbootdemo\enums\CodeEnum.class
+com\dgut\springbootdemo\services\impl\UserServiceImpl.class
+com\dgut\springbootdemo\SpringbootDemoApplication.class
+com\dgut\springbootdemo\result\R.class
+com\dgut\springbootdemo\services\UserService.class
